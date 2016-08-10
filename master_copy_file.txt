@@ -6,4 +6,6 @@ We are adding these changes because we want to verify these changes after mergin
 Added code for creating the confilct.
 Added new text.
 
+Changesin branch feature1.
+
 Made changes for conflict.
