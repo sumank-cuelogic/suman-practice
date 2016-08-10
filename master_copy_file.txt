@@ -7,3 +7,5 @@ Added code for creating the confilct.
 Added new text.
 
 Made changes for conflict.
+
+Changes for branch feature2.
