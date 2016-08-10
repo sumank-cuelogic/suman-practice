@@ -9,3 +9,5 @@ Added new text.
 Changesin branch feature1.
 
 Made changes for conflict.
+
+Changes for branch feature2.
