@@ -8,6 +8,6 @@ Added new text.
 
 Changesin branch feature1.
 
-Made changes for conflict.
+Did hot fixes on branch megaapp....
 
-Changes for branch feature2.
+
