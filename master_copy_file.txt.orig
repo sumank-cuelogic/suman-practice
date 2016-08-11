@@ -1,0 +1,18 @@
+Hi,
+
+This are the changes made in master_copy branch.
+
+We are adding these changes because we want to verify these changes after merging the master_copy branch into master branch.
+Added code for creating the confilct.
+Added new text.
+
+Did changes in megarates branch.....
+
+
+
+<<<<<<< HEAD
+=======
+Did hot fixes on branch megaapp....
+
+>>>>>>> megaapp
+
